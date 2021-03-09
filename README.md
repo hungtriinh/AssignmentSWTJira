@@ -1,1 +1,1 @@
-# AssignmentSWTJira
+# Assignment SWT Jira
